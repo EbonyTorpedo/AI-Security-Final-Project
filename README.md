@@ -52,7 +52,9 @@ A Convolutional Neural Network (CNN) is trained on the MNIST dataset to classify
 
 ## 📈 Example Output
 
-*(Add your graph image here after uploading it)*
+*(## 📈 Example Output
+
+![Model Performance](Model_Performance.png)*
 
 ---
 
